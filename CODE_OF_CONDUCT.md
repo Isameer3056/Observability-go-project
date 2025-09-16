@@ -1,6 +1,5 @@
 ## 📜 `CODE_OF_CONDUCT.md`
 
-```markdown
 # 🌍 Code of Conduct
 
 This project is meant to be a **safe, inclusive, and welcoming space** for anyone curious about observability and SRE practices.  
